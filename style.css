@@ -403,3 +403,112 @@ tfoot td {
     background-color: black;
     z-index: 0;
 }
+
+.box--popup {
+    border: 1px solid #030303;
+    position: fixed;
+    display: none;
+    top: 50%;
+    left: 50%;
+    padding: 10px;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    align-items: center;
+    justify-content: center;
+    transition: 200ms ease-in-out;
+    border-radius: 10px;
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+}
+
+.box--control {
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    /* border:1px solid black; */
+    border-radius: 20px;
+}
+
+.button--control {
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: black;
+    border: 1px solid gray;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+
+.button--control:hover {
+    background-color: gainsboro;
+    color: black;
+}
+
+.popup---input {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+fieldset {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: left;
+    margin-top: 30px;
+    width: 80%;
+}
+
+legend {
+    background-color: transparent;
+    color: gray;
+    padding: 3px 6px;
+    border: 1px;
+    text-align: left;
+}
+
+input {
+    margin: 0;
+    width: 100%;
+}
+
+.icon1, .icon2 {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.savings--icon {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.description {
+    margin-top: 30px;
+}
+
+.button--bottom--input {
+    display: flex;
+    gap: 90px;
+    margin-top: 60px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px
+}
+
+.button--bottom--input button:nth-child(1) {
+    background: transparent !important;
+    border: transparent !important;
+    color: black !important;
+}
+
+.button--bottom--input button:nth-child(2) {
+    background: #8DBCC7 !important;
+    border: 1px solid #8DBCC7 !important;
+    color: white !important;
+}
