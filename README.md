@@ -18,9 +18,9 @@ A clean and functional personal accounting web dashboard for managing daily expe
 ---
 
 ## ✨ Key Features
-- ⚡ **Income and expense ledger calculation**: Income and expense ledger calculation
-- ⚡ **Account overview cards with total balance monitoring**: Account overview cards with total balance monitoring
-- ⚡ **Clean responsive layout styled with modern CSS**: Clean responsive layout styled with modern CSS
+- Income and expense ledger calculation
+- Account overview cards with total balance monitoring
+- Clean responsive layout styled with modern CSS
 
 ---
 
