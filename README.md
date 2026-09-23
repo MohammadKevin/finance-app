@@ -12,26 +12,26 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A clean and functional personal accounting web dashboard for managing daily expenses, tracking account balances, and viewing financial summaries.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Income and expense ledger calculation
 - Account overview cards with total balance monitoring
 - Clean responsive layout styled with modern CSS
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Structure**: HTML5
 - **Styling**: CSS3
 - **Script**: Vanilla JavaScript
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 finance-app/
 ├── index.html          # Main dashboard
@@ -41,7 +41,7 @@ finance-app/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -57,7 +57,7 @@ cd finance-app
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -66,9 +66,9 @@ cd finance-app
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
